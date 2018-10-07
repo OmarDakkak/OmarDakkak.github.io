@@ -41,6 +41,9 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Russo One', sans-serif;
+  position: absolute;
+  left: 50%; 
+  transform: translate(-50%);
 }
 
 .btn-xl {
