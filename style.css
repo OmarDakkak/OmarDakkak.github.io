@@ -45,13 +45,13 @@ header.startup h1 {
 
 .btn-xl {
   padding: 1rem 2rem; 
-  margin-left: 226px;
 
 }
 
 .btn-primary {
   background-color: #7986AC;
   border-color: #162756; 
+  margin-left: 159px;
 }
 .btn-primary:hover {
   background-color: #4F608F;
