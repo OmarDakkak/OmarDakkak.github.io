@@ -50,4 +50,14 @@ header.startup h1 {
 .btn-primary {
   background-color: #7986AC;
   border-color: #162756; 
+<<<<<<< HEAD
+=======
+}
+
+.btn-primary:hover {
+  background-color: #4F608F;
+  border-color: #061439;
+  border-width: 5px;
+  cursor: pointer;
+>>>>>>> da884f6667c743a0f1d9458f32ef96df215483ab
 }
